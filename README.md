@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @armaansingh24
 - 👀 I’m interested in ... listening music
 - 🌱 I’m currently learning ... java
-- 📫 How to reach me ... contact me
+- 📫 How to reach me ... contact me at my email sarmaan20720@gmail.com
 
 <!---
 armaansingh24/armaansingh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
